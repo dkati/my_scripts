@@ -1,1 +1,2 @@
-# my_scripts
+a collection of my scripts...
+nothing special
