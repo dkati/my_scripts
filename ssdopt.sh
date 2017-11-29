@@ -13,4 +13,4 @@ echo "Manually change the mount flag by replacing"
 echo "'errors=remount-ro' to 'noatime,errors=remount-ro' "
 echo "Sleeping for 3 seconds and opening the file..."
 sleep 3
-sudo nano /etc/fstab
+sudo gedit /etc/fstab
