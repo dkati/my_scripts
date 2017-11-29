@@ -1,0 +1,7 @@
+sudo apt-get install lm-sensors
+enter sinexeia
+sudo sensors-detect 
+lscpu | grep MHz && sensors
+
+sudo apt-get install i7z
+sudo i7z
